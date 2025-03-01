@@ -22,7 +22,7 @@ A robust RESTful API for managing a gadget inventory with advanced features like
 
 ## Overview
 
-The **Gadget Inventory API** provides endpoints to manage a collection of gadgets, each uniquely identified by a codename. Users can add, update, and decommission gadgets, and trigger a mission-critical self-destruct sequence that requires a two-step verification process. This API is secured with JWT authentication and includes features to filter gadgets by status.
+The **Gadget Inventory API** provides endpoints to manage a collection of gadgets, each uniquely identified by a codename. Users can add, update, and decommission gadgets, and trigger a mission-critical self-destruct sequence that requires a two-step verification process. This API is secured with JWT authentication and also includes a feature to filter gadgets by status.
 
 ## Features
 
