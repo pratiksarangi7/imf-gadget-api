@@ -1,4 +1,4 @@
-# IMF Gadget API
+# IMF Gadget Management API
 
 A robust RESTful API for managing a gadget inventory with advanced features like self-destruct sequences, JWT-based authentication, and automated cleanup. This project demonstrates the use of Node.js, Express, TypeScript, PostgreSQL with Prisma ORM, and cron jobs for scheduled tasks.
 
